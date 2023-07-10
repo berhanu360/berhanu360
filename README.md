@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berhanu360
 - 👀 I’m interested in git implementation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to collaborate on ADF
 - 📫 How to reach me ...
 
 <!---
