@@ -1,0 +1,9 @@
+{
+	"name": "benADF2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8dc9c82d-215c-45d8-9de6-5a2aae624a37",
+		"tenantId": "a61aa2e9-8470-41f9-9601-616c4dd34bc9"
+	}
+}
